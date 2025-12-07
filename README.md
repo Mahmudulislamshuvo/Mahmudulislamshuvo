@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there 👋  
-
-### I'am
-## Mahmudul Islam Shuvo  
+### Hey there 👋 I'am,
+##Mahmudul Islam Shuvo 
 *Frontend Developer*
 
 
