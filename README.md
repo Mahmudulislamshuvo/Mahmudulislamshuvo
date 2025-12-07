@@ -61,12 +61,6 @@ I care about **details, accessibility, and performance**.
 
 ---
 
-### 📊 Highlights
-- Actively building & learning every week
-- Strong focus on modern frontend architecture
-
----
-
 ### 🛠 Tech Stack
 
 **Frontend**
@@ -93,7 +87,5 @@ VS Code • Git • Vercel • Figma
 - Anime fan + Gym + Coding = me 🎯  
 - I love experimenting with new frontend trends
 
----
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahmudulislamshuvo&theme=react)
 
 
