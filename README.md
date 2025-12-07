@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Mahmudulislamshuvo/Mahmudulislamshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,10 +14,17 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there 👋  
-I’m [Mahmudul Islam Shuvo], a Frontend Developer crafting modern, fast, and expressive web experiences.
+
+
+## Mahmudul Islam Shuvo  
+*Frontend Developer*
+
+
+I craft modern, fast, and expressive web experiences.
 
 I turn ideas into smooth, functional UI —  
 if I can imagine it, I’ll build it. 🚀
+
 
 ---
 
