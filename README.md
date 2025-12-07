@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey there 👋  
-I’m [Your Name], a Frontend Developer crafting modern, fast, and expressive web experiences.
+I’m [Mahmudul Islam Shuvo], a Frontend Developer crafting modern, fast, and expressive web experiences.
 
 I turn ideas into smooth, functional UI —  
 if I can imagine it, I’ll build it. 🚀
