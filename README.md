@@ -37,7 +37,7 @@ I specialize in:
 - 🌐 **REST APIs** (a required part of frontend development)
 - 🔥 Firebase (auth + database when needed)
 
-> I know the full MERN stack, but I’m intentionally focused on becoming an expert **Frontend Engineer**, not a backend/devops guy.
+> I know the full MERN stack, but I’m intentionally focused on becoming an expert **Frontend Engineer**.
 
 ---
 
