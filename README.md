@@ -34,7 +34,7 @@ I specialize in:
 - 🧩 **TypeScript**
 - 🎨 **Tailwind CSS**
 - 🕺 **Framer Motion** (animations & micro-interactions)
-- 🌐 **REST APIs** (a required part of frontend development)
+- 🌐 **REST APIs**
 - 🔥 Firebase (auth + database when needed)
 
 > I know the full MERN stack, but I’m intentionally focused on becoming an expert **Frontend Engineer**.
@@ -87,13 +87,9 @@ VS Code • Git • Vercel • Figma
 
 ---
 
-### 🥳 Fun Facts
+#### 🥳 Fun Facts
 - UI animations make me happier than caffeine ☕✨
 - I build things I personally want to use
 - Anime fan + Gym + Coding = me 🎯  
 - I love experimenting with new frontend trends
 
----
-
-### 📫 Let’s Connect
-Linkedin: *[Linkedin](https://www.linkedin.com/in/mahmudul-islam-shuvo/)*  
